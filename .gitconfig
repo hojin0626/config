@@ -1,0 +1,7 @@
+[user]
+	email = hojin0626@naver.com
+	name = hojin0626
+[core]
+	editor = vim
+[commit]
+	template = /home/hojin/.gitmessage.txt
