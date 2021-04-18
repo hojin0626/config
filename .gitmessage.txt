@@ -1,9 +1,9 @@
 [Type] Input_title
 
 ==========================
-# Detail Notes
+| Detail Notes |
 
 ==========================
-# Test Result
+| Test Result |
 
 ==========================
